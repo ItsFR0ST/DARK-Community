@@ -184,4 +184,4 @@ client.on("message", message => { //clear
 });
 
 
-client.login(NjExOTc5MzQyNzYyODY4NzM2.XVkkAQ.8Y8IRo9KxCCX98BMxYfbNIFfC8c);
+client.login(process.env.BOT_TOKEN);
